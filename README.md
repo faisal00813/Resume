@@ -26,7 +26,7 @@ I am always ready for some challenges which are on technical edge and gives sati
 c#, asp.net-web-api, servicestack, ormlite-servicestack, redis, elasticsearch, lucene, mongodb, sql-server
 
 ##Authentication Server
-*C#* &lt;i&gt;Asp.Net-WebApi&lt;/i&gt;
+*C#* *Asp.Net-WebApi*
 
 + Single handedly implemented **OAuth 2.0** specified authentication server.
 + Decreased user authentication time by **2X** with this auth server
@@ -66,18 +66,16 @@ c#, asp.net-web-api, servicestack, ormlite-servicestack, redis, elasticsearch, l
 
 c#, .net, asp.net-mvc, asp.net-web-api, sql-server
 
-&lt;h2&gt;Gathering requirements from clients&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Introduced rapid prototyping with &lt;b&gt;Microsoft Lightswitch&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;Decreased deployment/shipping time by &lt;b&gt;2X&lt;/b&gt; by bringing clarity among stake holders with prototyping.
-&lt;/li&gt;
-&lt;/ul&gt;
+##Gathering requirements from clients
 
-&lt;h2&gt;Shipped&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Succesfully shipped &lt;b&gt;3&lt;/b&gt; projects.&lt;/li&gt;
-&lt;li&gt;Used iterative release approach for project release.&lt;/li&gt;
-&lt;/ul&gt;
++ Introduced rapid prototyping with *Microsoft Lightswitch*;
++ Decreased deployment/shipping time by **2X** by bringing clarity among stake holders with prototyping.
+
+
+##Shipped
++ Succesfully shipped **3** projects
++ Used iterative release approach for project release.
+
 
 ---
 
@@ -86,19 +84,18 @@ c#, .net, asp.net-mvc, asp.net-web-api, sql-server
 c#, python, java
 
 ###Backengine for ExtraCricket.com
-**Dubai**&lt;br&gt;
-*Python* &lt;i&gt;Mysql&lt;/i&gt; &lt;br&gt;
+**Dubai**
+*Python* *Mysql*
 
 + Back-engine was responsible for aggregating game scores from various XML feeds and scraping and displaying in real-time.
-+ New solution optimzed aggregation time by almost &lt;b&gt;12X &lt;/b&gt; by reducing lag from **1.5 minutes** to around &lt;b&gt;8 seconds&lt;/b&gt;
++ New solution optimzed aggregation time by almost **12X** by reducing lag from **1.5 minutes** to around **8 seconds**
  --------------------
 ### [OpenBravo Point of Sale][]
-**Saudi Arabia**&lt;br&gt;
-&lt;i&gt;Java&lt;/i&gt;&lt;br&gt;
-&lt;ul&gt;&lt;li&gt;
-Customized and deployed open-source solution for client.&lt;/li&gt;
-&lt;li&gt;Reduced cost for client by customizing opensource solution instead developing from scratch.&lt;/li&gt;
-&lt;/ul&gt;
+**Saudi Arabia**
+*Java*
+
++ Customized and deployed open-source solution for client.
++ Reduced cost for client by customizing opensource solution instead developing from scratch.
 [OpenBravo Point of Sale]:http://sourceforge.net/projects/openbravopos/
 -----------------------------
 **Succesfully deployed 4 more projects**
@@ -113,7 +110,7 @@ Customized and deployed open-source solution for client.&lt;/li&gt;
 
 
 ###Project
-#Surf Touch
+##Surf Touch
 *Convert any surface to touch screen*
 
 Project used infrared light emitting pen with Wii controller. Any surface be it your table with projector pointer on it or your regular laptop, any surface can be turned into touch screen.
