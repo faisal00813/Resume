@@ -6,7 +6,7 @@
 - https://about.me/m.a.sami
 
 
-**Building** that&#39;s what I am all about. When I look back it seems rather a short run from building something out of Lego blocks to building C# solution by hitting `ctrl + shift + b` in Visual Studio.
+**Building** that's what I am all about. When I look back it seems rather a short run from building something out of Lego blocks to building C# solution by hitting `ctrl + shift + b` in Visual Studio.
 
 Be it building **3D Printer** to **Drone** as personal projects or writing **authentication server** for  a corporate. I always love creating something new, bringing some value to the table. 
 
@@ -88,15 +88,16 @@ c#, python, java
 *Python* *Mysql*
 
 + Back-engine was responsible for aggregating game scores from various XML feeds and scraping and displaying in real-time.
-+ New solution optimzed aggregation time by almost **12X** by reducing lag from **1.5 minutes** to around **8 seconds**
++ New solution optimzed aggregation time by almost **12X** by reducing lag from **1.5 minutes** to around **8 seconds**.
  --------------------
-### [OpenBravo Point of Sale][]
+
+###[OpenBravo Point of Sale](http://sourceforge.net/projects/openbravopos/)
 **Saudi Arabia**
 *Java*
 
 + Customized and deployed open-source solution for client.
 + Reduced cost for client by customizing opensource solution instead developing from scratch.
-[OpenBravo Point of Sale]:http://sourceforge.net/projects/openbravopos/
+
 -----------------------------
 **Succesfully deployed 4 more projects**
 
