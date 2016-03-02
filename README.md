@@ -21,7 +21,7 @@ I am always ready for some challenges which are on technical edge and gives sati
 ---
 ##Experience
 
-**Senior Software Engineer**, Collcon Labs, *November 2015 â€“ Current*
+**Senior Software Engineer**, Collcon Labs, *November 2015 - Current*
 
 scala, java, akka, playframework, akka-fsm, reactivemongo, amazon-web-services, beanstalk, docker, amazon-ec2
 
@@ -43,7 +43,7 @@ Techstack :
 
 ---
 
-**Software Engineer**, Medi Assist India Pvt Ltd http://www.mediassistindia.com http://mahs.in, *October 2014 â€“ November 2015*
+**Software Engineer**, Medi Assist India Pvt Ltd http://www.mediassistindia.com http://mahs.in, *October 2014 - November 2015*
 
 c#, asp.net-web-api, servicestack, ormlite-servicestack, redis, elasticsearch, lucene, mongodb, sql-server
 
@@ -60,7 +60,7 @@ c#, asp.net-web-api, servicestack, ormlite-servicestack, redis, elasticsearch, l
 
 ---
 
-**Software Engineer**, Xynyx Technologies, *June 2013 â€“ September 2014*
+**Software Engineer**, Xynyx Technologies, *June 2013 - September 2014*
 
 c#, .net, asp.net-mvc, asp.net-web-api, sql-server
 
@@ -77,7 +77,7 @@ c#, .net, asp.net-mvc, asp.net-web-api, sql-server
 
 ---
 
-**Developer**, Freelance, *May 2010 â€“ June 2013*
+**Developer**, Freelance, *May 2010 - June 2013*
 
 c#, python, java
 
@@ -102,7 +102,7 @@ Customized and deployed open-source solution for client.&lt;/li&gt;
 
 ##Education
 
-**Bachelor of Engineering**, Swami Ramanand Teerth Marathwada University, *2009 â€“ 2013*
+**Bachelor of Engineering**, Swami Ramanand Teerth Marathwada University, *2009 - 2013*
 
 programming, algorithms, cloud, systems-programming
 
