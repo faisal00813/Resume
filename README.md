@@ -66,14 +66,12 @@ c#, .net, asp.net-mvc, asp.net-web-api, sql-server
 
 **Gathering requirements from clients**
 
-+ Introduced rapid prototyping with &lt;b&gt;Microsoft Lightswitch&lt;/b&gt;&lt;/li&gt;
-+ Decreased deployment/shipping time by &lt;b&gt;2X&lt;/b&gt; by bringing clarity among stake holders with prototyping.
++ Introduced rapid prototyping with *Microsoft Lightswitch*
++ Decreased deployment/shipping time by *2X by bringing clarity among stake holders with prototyping.
 
 **Shipped**
-&lt;ul&gt;
-&lt;li&gt;Succesfully shipped &lt;b&gt;3&lt;/b&gt; projects.&lt;/li&gt;
-&lt;li&gt;Used iterative release approach for project release.&lt;/li&gt;
-&lt;/ul&gt;
++ Succesfully shipped 3 projects.
++ Used iterative release approach for project release.
 
 ---
 
@@ -85,18 +83,14 @@ c#, python, java
 **Dubai** (*Python*  *Mysql*)
 
 + Back-engine was responsible for aggregating game scores from various XML feeds and scraping and displaying in real-time.
-+ New solution optimzed aggregation time by almost &lt;b&gt;12X &lt;/b&gt; by reducing lag from **1.5 minutes** to around &lt;b&gt;8 seconds&lt;/b&gt;
++ New solution optimzed aggregation time by almost **12X** by reducing lag from **1.5 minutes** to around **8 seconds**
  
 **[OpenBravo Point of Sale][] - Saudi Arabia** (*Java*)
-&lt;ul&gt;&lt;li&gt;
-Customized and deployed open-source solution for client.&lt;/li&gt;
-&lt;li&gt;Reduced cost for client by customizing opensource solution instead developing from scratch.&lt;/li&gt;
-&lt;/ul&gt;
++ Customized and deployed open-source solution for client.
++ Reduced cost for client by customizing opensource solution instead developing from scratch.
 [OpenBravo Point of Sale]:http://sourceforge.net/projects/openbravopos/
 
 **Succesfully deployed 4 more projects**
-
-
 
 ---
 
