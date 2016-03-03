@@ -87,7 +87,7 @@ c#, python, java
     + Reduced cost for client by customizing opensource solution instead developing from scratch.
 [OpenBravo Point of Sale]:http://sourceforge.net/projects/openbravopos/
 
-+  ###### Succesfully deployed 4 more projects
++ ###### Succesfully deployed 4 more projects
 
 ---
 
