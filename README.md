@@ -1,5 +1,5 @@
 
-#Mohammad Abdul Sami
+# Mohammad Abdul Sami
 - Hyderabad, India
 - +91-8087557454
 - faisal00813@gmail.com
@@ -19,17 +19,15 @@ I am always ready for some challenges which are on technical edge and gives sati
 **Likes:** c#, .net, python, java, redis, lucene.net, elasticsearch, mongodb, sql-server, servicestack, servicestack.redis, scala, akka, playframework
 
 ---
-##Experience
+## Experience
 
 **Senior Software Engineer**, Collcon Labs, *November 2015 - Current*
 
 scala, java, akka, playframework, akka-fsm, reactivemongo, amazon-web-services, beanstalk, docker, amazon-ec2
 
-Develop distributed and stateless web apps using micro service architecture.
-
-Design the AWS backed infrastructure.
-
-Deploy using automated build pipeline.
++ Develop distributed and stateless web apps using micro service architecture.
++ Design the AWS backed infrastructure.
++ Deploy using automated build pipeline.
 
 Techstack :
 
@@ -47,15 +45,15 @@ Techstack :
 
 c#, asp.net-web-api, servicestack, ormlite-servicestack, redis, elasticsearch, lucene, mongodb, sql-server
 
-**OAuth 2.0 Authentication Server** (*C#*  *Asp.Net-WebApi*)
++ ###### OAuth 2.0 Authentication Server (*C#*  *Asp.Net-WebApi*)
 
-**Full text search with ElasticSearch** (*C#*  *ElasticSearch*  *MongoDB*)
++ ###### Full text search with ElasticSearch (*C#*  *ElasticSearch*  *MongoDB*)
 
-**Centralized Job Server** (*C#*  *Sql Server*  *Multi Threading*)
++ ###### Centralized Job Server (*C#*  *Sql Server*  *Multi Threading*)
 
-**Backend for Healthcare Marketplace** (*C#*  *ServiceStack*  *Sql Server*  *Redis)*
++ ###### Backend for Healthcare Marketplace (*C#*  *ServiceStack*  *Sql Server*  *Redis)*
 
-**Workflow Manager** (*C#*  *Sql Server*)
++ ###### Workflow Manager (*C#*  *Sql Server*)
 
 
 ---
@@ -64,14 +62,14 @@ c#, asp.net-web-api, servicestack, ormlite-servicestack, redis, elasticsearch, l
 
 c#, .net, asp.net-mvc, asp.net-web-api, sql-server
 
-**Gathering requirements from clients**
++ ###### Gathering requirements from clients
 
-+ Introduced rapid prototyping with *Microsoft Lightswitch*
-+ Decreased deployment/shipping time by *2X by bringing clarity among stake holders with prototyping.
+    + Introduced rapid prototyping with *Microsoft Lightswitch*
+    + Decreased deployment/shipping time by *2X by bringing clarity among stake holders with prototyping.
 
-**Shipped**
-+ Succesfully shipped 3 projects.
-+ Used iterative release approach for project release.
++ ###### Shipped
+    + Succesfully shipped 3 projects.
+    + Used iterative release approach for project release.
 
 ---
 
@@ -79,29 +77,28 @@ c#, .net, asp.net-mvc, asp.net-web-api, sql-server
 
 c#, python, java
 
-**Backengine for ExtraCricket.com** - 
-**Dubai** (*Python*  *Mysql*)
++ ###### Backengine for ExtraCricket.com - Dubai (*Python*  *Mysql*)
 
-+ Back-engine was responsible for aggregating game scores from various XML feeds and scraping and displaying in real-time.
-+ New solution optimzed aggregation time by almost **12X** by reducing lag from **1.5 minutes** to around **8 seconds**
+    + Back-engine was responsible for aggregating game scores from various XML feeds and scraping and displaying in real-time.
+    + New solution optimzed aggregation time by almost **12X** by reducing lag from **1.5 minutes** to around **8 seconds**
  
-**[OpenBravo Point of Sale][] - Saudi Arabia** (*Java*)
-+ Customized and deployed open-source solution for client.
-+ Reduced cost for client by customizing opensource solution instead developing from scratch.
++ ###### [OpenBravo Point of Sale][] - Saudi Arabia (*Java*)
+    + Customized and deployed open-source solution for client.
+    + Reduced cost for client by customizing opensource solution instead developing from scratch.
 [OpenBravo Point of Sale]:http://sourceforge.net/projects/openbravopos/
 
-**Succesfully deployed 4 more projects**
++  ###### Succesfully deployed 4 more projects
 
 ---
 
-##Education
+## Education
 
-**Bachelor of Engineering**, Swami Ramanand Teerth Marathwada University, *2009 - 2013*
+###### Bachelor of Engineering, Swami Ramanand Teerth Marathwada University, *2009 - 2013*
 
 programming, algorithms, cloud, systems-programming
 
-###Project
-#Surf Touch
+**Project**
+###### Surf Touch
 *Convert any surface to touch screen*
 
 Project used infrared light emitting pen with Wii controller. Any surface be it your table with projector pointer on it or your regular laptop, any surface can be turned into touch screen.
@@ -116,7 +113,7 @@ It provided same functionality as of commercial products available in markets, b
 ---
 
 
-##Projects &amp; Interests
+## Projects &amp; Interests
 
 **GitHub - Lufi**, [https://github.com/faisal00813/Lufi](https://github.com/faisal00813/Lufi), *June 2015*
 
