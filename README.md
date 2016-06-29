@@ -58,22 +58,9 @@ c#, asp.net-web-api, servicestack, ormlite-servicestack, redis, elasticsearch, l
 
 ---
 
-**Software Engineer**, Xynyx Technologies, *June 2013 - September 2014*
 
-c#, .net, asp.net-mvc, asp.net-web-api, sql-server
 
-+ ###### Gathering requirements from clients
-
-    + Introduced rapid prototyping with *Microsoft Lightswitch*
-    + Decreased deployment/shipping time by *2X by bringing clarity among stake holders with prototyping.
-
-+ ###### Shipped
-    + Succesfully shipped 3 projects.
-    + Used iterative release approach for project release.
-
----
-
-**Developer**, Freelance, *May 2010 - June 2013*
+**Developer**, Freelance, *May 2010 - September 2014*
 
 c#, python, java
 
