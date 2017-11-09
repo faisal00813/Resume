@@ -14,7 +14,6 @@
 >
 > Always ready for some challenges which are on technical edge and gives satisfaction when achieved. Eager to learn something new and more importantly implement something new.
 
----
 ## Technical Skills
 **Likes:** scala, akka, cassndra, dynamodb, docker, blockchain, java, python
 
