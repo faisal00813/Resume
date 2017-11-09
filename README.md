@@ -22,13 +22,13 @@ I am always ready for some challenges which are on technical edge and gives sati
 ## Experience
 **Senior Software Engineer**, [Evernym Inc](evernym.com), *June 2017 - Now*
 
-scala, blockchain, sovrin, hyperledger-indy, akka, akka-http, cassandra, dynamodb, leveldb
+_scala, blockchain, sovrin, hyperledger-indy, akka, akka-http, cassandra, dynamodb, leveldb_
 
 + Design and develop application based on hyperledger indy
 
 **Senior Software Engineer**, InsuranceInbox, *June 2016 - June 2017*
 
-scala, akka, playframework, cassandra, mongodb, kafka, redis, elasticsearch, kibana, logstash, amazon-web-services, nifi
+_scala, akka, playframework, cassandra, mongodb, kafka, redis, elasticsearch, kibana, logstash, amazon-web-services, nifi
 
 + Design and develop web apps using microservice architecture
 + Design and develop highly scalable big data pipelines with kafka, nifi, redis and scala
@@ -37,7 +37,7 @@ scala, akka, playframework, cassandra, mongodb, kafka, redis, elasticsearch, kib
 
 **Senior Software Engineer**, Collcon Labs, *November 2015 - June 2016*
 
-scala, java, akka, playframework, akka-fsm, reactivemongo, amazon-web-services, beanstalk, docker, amazon-ec2
+_scala, java, akka, playframework, akka-fsm, reactivemongo, amazon-web-services, beanstalk, docker, amazon-ec2
 
 + Develop distributed and stateless web apps using micro service architecture.
 + Design the AWS backed infrastructure.
@@ -49,7 +49,7 @@ scala, java, akka, playframework, akka-fsm, reactivemongo, amazon-web-services, 
 
 **Software Engineer**, Medi Assist India Pvt Ltd http://www.mediassistindia.com http://mahs.in, *October 2014 - November 2015*
 
-c#, asp.net-web-api, servicestack, ormlite-servicestack, redis, elasticsearch, lucene, mongodb, sql-server
+_c#, asp.net-web-api, servicestack, ormlite-servicestack, redis, elasticsearch, lucene, mongodb, sql-server
 
 + OAuth 2.0 authentication server
 + Full text search with ElasticSearch
@@ -65,7 +65,7 @@ c#, asp.net-web-api, servicestack, ormlite-servicestack, redis, elasticsearch, l
 
 **Developer**, Freelance, *May 2010 - September 2014*
 
-c#, python, java
+_c#, python, java
 
 + Backengine for ExtraCricket.com - Dubai (*Python*  *Mysql*)
 
