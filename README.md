@@ -28,7 +28,7 @@ _scala, blockchain, sovrin, hyperledger-indy, akka, akka-http, cassandra, dynamo
 
 **Senior Software Engineer**, InsuranceInbox, *June 2016 - June 2017*
 
-_scala, akka, playframework, cassandra, mongodb, kafka, redis, elasticsearch, kibana, logstash, amazon-web-services, nifi
+_scala, akka, playframework, cassandra, mongodb, kafka, redis, elasticsearch, kibana, logstash, amazon-web-services, nifi_
 
 + Design and develop web apps using microservice architecture
 + Design and develop highly scalable big data pipelines with kafka, nifi, redis and scala
@@ -37,7 +37,7 @@ _scala, akka, playframework, cassandra, mongodb, kafka, redis, elasticsearch, ki
 
 **Senior Software Engineer**, Collcon Labs, *November 2015 - June 2016*
 
-_scala, java, akka, playframework, akka-fsm, reactivemongo, amazon-web-services, beanstalk, docker, amazon-ec2
+_scala, java, akka, playframework, akka-fsm, reactivemongo, amazon-web-services, beanstalk, docker, amazon-ec2_
 
 + Develop distributed and stateless web apps using micro service architecture.
 + Design the AWS backed infrastructure.
@@ -49,7 +49,7 @@ _scala, java, akka, playframework, akka-fsm, reactivemongo, amazon-web-services,
 
 **Software Engineer**, Medi Assist India Pvt Ltd http://www.mediassistindia.com http://mahs.in, *October 2014 - November 2015*
 
-_c#, asp.net-web-api, servicestack, ormlite-servicestack, redis, elasticsearch, lucene, mongodb, sql-server
+_c#, asp.net-web-api, servicestack, ormlite-servicestack, redis, elasticsearch, lucene, mongodb, sql-server_
 
 + OAuth 2.0 authentication server
 + Full text search with ElasticSearch
@@ -65,7 +65,7 @@ _c#, asp.net-web-api, servicestack, ormlite-servicestack, redis, elasticsearch, 
 
 **Developer**, Freelance, *May 2010 - September 2014*
 
-_c#, python, java
+_c#, python, java_
 
 + Backengine for ExtraCricket.com - Dubai (*Python*  *Mysql*)
 
