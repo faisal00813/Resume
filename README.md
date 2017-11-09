@@ -24,7 +24,7 @@
 
 `scala, blockchain, sovrin, hyperledger-indy, akka, akka-http, cassandra, dynamodb, leveldb`
 
-> + Design and develop application based on hyperledger indy
+ + Design and develop application based on hyperledger indy
 
 **Senior Software Engineer**, InsuranceInbox, *June 2016 - June 2017*
 
