@@ -10,7 +10,7 @@
 
 Be it building **3D Printer** to **Drone** as personal projects or writing **authentication server** for  a corporate. I always love creating something new, bringing some value to the table. 
 
-I have been writing computer code since last 5+ plus years using various languages like Scala, Java and Python. I believe in using any language/technology which can solve your problem best rather than confining to single language.
+I have been writing computer code since last 6+ plus years using various languages like Scala, Java and Python. I believe in using any language/technology which can solve your problem best rather than confining to single language.
 
 I am always ready for some challenges which are on technical edge and gives satisfaction when achieved. Also eager to learn something new and more importantly implement something new.
 
