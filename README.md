@@ -22,22 +22,22 @@ I am always ready for some challenges which are on technical edge and gives sati
 ## Experience
 **Senior Software Engineer**, [Evernym Inc](evernym.com), *June 2017 - Now*
 
-_scala, blockchain, sovrin, hyperledger-indy, akka, akka-http, cassandra, dynamodb, leveldb_
+`scala, blockchain, sovrin, hyperledger-indy, akka, akka-http, cassandra, dynamodb, leveldb`
 
-+ Design and develop application based on hyperledger indy
+> + Design and develop application based on hyperledger indy
 
 **Senior Software Engineer**, InsuranceInbox, *June 2016 - June 2017*
 
-_scala, akka, playframework, cassandra, mongodb, kafka, redis, elasticsearch, kibana, logstash, amazon-web-services, nifi_
+`scala, akka, playframework, cassandra, mongodb, kafka, redis, elasticsearch, kibana, logstash, amazon-web-services, nifi`
 
-+ Design and develop web apps using microservice architecture
-+ Design and develop highly scalable big data pipelines with kafka, nifi, redis and scala
-+ Lead a team of Scala developers
+ + Design and develop web apps using microservice architecture
+ + Design and develop highly scalable big data pipelines with kafka, nifi, redis and scala
+ + Lead a team of Scala developers
 
 
 **Senior Software Engineer**, Collcon Labs, *November 2015 - June 2016*
 
-_scala, java, akka, playframework, akka-fsm, reactivemongo, amazon-web-services, beanstalk, docker, amazon-ec2_
+`scala, java, akka, playframework, akka-fsm, reactivemongo, amazon-web-services, beanstalk, docker, amazon-ec2`
 
 + Develop distributed and stateless web apps using micro service architecture.
 + Design the AWS backed infrastructure.
@@ -49,7 +49,7 @@ _scala, java, akka, playframework, akka-fsm, reactivemongo, amazon-web-services,
 
 **Software Engineer**, Medi Assist India Pvt Ltd http://www.mediassistindia.com http://mahs.in, *October 2014 - November 2015*
 
-_c#, asp.net-web-api, servicestack, ormlite-servicestack, redis, elasticsearch, lucene, mongodb, sql-server_
+`c#, asp.net-web-api, servicestack, ormlite-servicestack, redis, elasticsearch, lucene, mongodb, sql-server`
 
 + OAuth 2.0 authentication server
 + Full text search with ElasticSearch
@@ -65,9 +65,9 @@ _c#, asp.net-web-api, servicestack, ormlite-servicestack, redis, elasticsearch, 
 
 **Developer**, Freelance, *May 2010 - September 2014*
 
-_c#, python, java_
+`c#, python, java`
 
-+ Backengine for ExtraCricket.com - Dubai (*Python*  *Mysql*)
++ Backengine for ExtraCricket.com - Dubai (`Python, Mysql`)
 
 + [OpenBravo Point of Sale](https://sourceforge.net/projects/openbravopos/) - Saudi Arabia (*Java*)
  
@@ -79,7 +79,7 @@ _c#, python, java_
 
 ###### Bachelor of Engineering, Swami Ramanand Teerth Marathwada University, *2009 - 2013*
 
-programming, algorithms, cloud, systems-programming
+`programming, algorithms, cloud, systems-programming`
 
 **Project**
 ###### Surf Touch
