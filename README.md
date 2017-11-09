@@ -10,18 +10,32 @@
 
 Be it building **3D Printer** to **Drone** as personal projects or writing **authentication server** for  a corporate. I always love creating something new, bringing some value to the table. 
 
-I have been writing computer code since last 4+ plus years using various languages like C# (mostly), Java and Python. I believe in using any language/technology which can solve your problem best rather than confining to single language.
+I have been writing computer code since last 5+ plus years using various languages like Scala, Java and Python. I believe in using any language/technology which can solve your problem best rather than confining to single language.
 
 I am always ready for some challenges which are on technical edge and gives satisfaction when achieved. Also eager to learn something new and more importantly implement something new.
 
 ---
 ## Technical Skills
-**Likes:** c#, .net, python, java, redis, lucene.net, elasticsearch, mongodb, sql-server, servicestack, servicestack.redis, scala, akka, playframework
+**Likes:** scala, akka, cassndra, dynamodb, docker, blockchain, java, python
 
 ---
 ## Experience
+**Senior Software Engineer**, [Evernym Inc](evernym.com), *June 2017 - Now*
 
-**Senior Software Engineer**, Collcon Labs, *November 2015 - Current*
+scala, blockchain, sovrin, hyperledger-indy, akka, akka-http, cassandra, dynamodb, leveldb
+
++ Design and develop application based on hyperledger indy
+
+**Senior Software Engineer**, InsuranceInbox, *June 2016 - June 2017*
+
+scala, akka, playframework, cassandra, mongodb, kafka, redis, elasticsearch, kibana, logstash, amazon-web-services, nifi
+
++ Design and develop web apps using microservice architecture
++ Design and develop highly scalable big data pipelines with kafka, nifi, redis and scala
++ Lead a team of Scala developers
+
+
+**Senior Software Engineer**, Collcon Labs, *November 2015 - June 2016*
 
 scala, java, akka, playframework, akka-fsm, reactivemongo, amazon-web-services, beanstalk, docker, amazon-ec2
 
@@ -29,15 +43,7 @@ scala, java, akka, playframework, akka-fsm, reactivemongo, amazon-web-services, 
 + Design the AWS backed infrastructure.
 + Deploy using automated build pipeline.
 
-Techstack :
 
-+ Scala
-+ Java
-+ Play Framework
-+ MongoDB
-+ Akka
-+ AWS
-+ Docker
 
 ---
 
@@ -45,15 +51,12 @@ Techstack :
 
 c#, asp.net-web-api, servicestack, ormlite-servicestack, redis, elasticsearch, lucene, mongodb, sql-server
 
-+ ###### OAuth 2.0 Authentication Server (*C#*  *Asp.Net-WebApi*)
++ OAuth 2.0 authentication server
++ Full text search with ElasticSearch
 
-+ ###### Full text search with ElasticSearch (*C#*  *ElasticSearch*  *MongoDB*)
++ Centralized job server
 
-+ ###### Centralized Job Server (*C#*  *Sql Server*  *Multi Threading*)
-
-+ ###### Backend for Healthcare Marketplace (*C#*  *ServiceStack*  *Sql Server*  *Redis)*
-
-+ ###### Workflow Manager (*C#*  *Sql Server*)
++ Web api backend for healthcare marketplace
 
 
 ---
@@ -64,17 +67,11 @@ c#, asp.net-web-api, servicestack, ormlite-servicestack, redis, elasticsearch, l
 
 c#, python, java
 
-+ ###### Backengine for ExtraCricket.com - Dubai (*Python*  *Mysql*)
++ Backengine for ExtraCricket.com - Dubai (*Python*  *Mysql*)
 
-    + Back-engine was responsible for aggregating game scores from various XML feeds and scraping and displaying in real-time.
-    + New solution optimzed aggregation time by almost **12X** by reducing lag from **1.5 minutes** to around **8 seconds**
++ [OpenBravo Point of Sale](https://sourceforge.net/projects/openbravopos/) - Saudi Arabia (*Java*)
  
-+ ###### [OpenBravo Point of Sale][] - Saudi Arabia (*Java*)
-    + Customized and deployed open-source solution for client.
-    + Reduced cost for client by customizing opensource solution instead developing from scratch.
-[OpenBravo Point of Sale]:http://sourceforge.net/projects/openbravopos/
-
-+ ###### Succesfully deployed 4 more projects
++ Succesfully deployed 4 more projects
 
 ---
 
@@ -95,59 +92,4 @@ It provided same functionality as of commercial products available in markets, b
 
 **Awarded Best Project of the Year**
 
-**Got orders from two schools to buy as product**
-
----
-
-
-## Projects &amp; Interests
-
-**GitHub - Lufi**, [https://github.com/faisal00813/Lufi](https://github.com/faisal00813/Lufi), *June 2015*
-
-
-(An ultra fast) Lucene File Indexer
-  
-
-
----
-
-**GitHub - ServiceStack.OrmLite**, [https://github.com/faisal00813/ServiceStack.OrmLite](https://github.com/faisal00813/ServiceStack.OrmLite), *July 2015*
-
-c#
-
-Fast, Simple, Typed ORM for .NET
-  
-+ Targeted to .Net framework 4.5
-+ Added `async` db calls 
-
-*Used internally by Medi Assist India Pvt Ltd*
-
----
-
-**GitHub - ServiceStack**, [https://github.com/faisal00813/ServiceStack](https://github.com/faisal00813/ServiceStack), *March 2015*
-
-c#
-
-Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
-  
-+ Targeted to .Net framework 4.5
-
-*Used internally by Medi Assist India Pvt Ltd*
-
----
-
-**GitHub - Resume**, [https://github.com/faisal00813/Resume](https://github.com/faisal00813/Resume), *July 2015*
-
-
-Resume
-  
-
-
----
-
-
-
-## Tools
-**First Computer:** Pentium 1, Assembled it myself ;)
-
-**Favorite Editor:** Visual Studio, Eclipse, Sublime
+**Got orders from two schools to buy as a product**
